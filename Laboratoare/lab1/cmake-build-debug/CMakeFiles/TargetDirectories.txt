@@ -1,0 +1,3 @@
+/home/davide/AF/cmake-build-debug/CMakeFiles/AF.dir
+/home/davide/AF/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/davide/AF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
