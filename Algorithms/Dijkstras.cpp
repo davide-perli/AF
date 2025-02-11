@@ -38,7 +38,7 @@ void Graph::shortestPath(int src) {
 
     while (!pq.empty()) {
 
-        int u = pq.top().second;
+        int u = pq.top().second ;
         pq.pop();
 
         for (auto &neighbor : adj[u]) {
